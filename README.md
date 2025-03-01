@@ -18,7 +18,7 @@ Easily **hide and retrieve secret messages** within images using this **user-fri
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOGESHWAR-PRABHU/Image-Steganography-Application.git
+git clone https://github.com/Yogeshwar-Prabhu/Secure-Data-Hiding-in-Image-Using-Steganography.git
 ```
 
 2. Install the required dependencies:
