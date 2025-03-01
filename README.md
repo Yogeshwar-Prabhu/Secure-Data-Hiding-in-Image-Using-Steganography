@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 1. Run the application:
 ```bash
-python steganography_app.py
+python Steganography.py
 ```
 
 2. To encode a message:
