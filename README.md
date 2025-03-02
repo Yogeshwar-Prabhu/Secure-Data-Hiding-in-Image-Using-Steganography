@@ -2,7 +2,7 @@
 
 Easily **hide and retrieve secret messages** within images using this **user-friendly steganography tool**. This Python-based application, powered by Tkinter, provides a **secure and efficient** way to conceal text within images while keeping their appearance unchanged.
 
-✨ **View project screenshots** [here](outputimages).
+✨ **View project screenshots** [here](Output_Images).
 
 ## **Key Features**
 
